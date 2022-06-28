@@ -1,7 +1,7 @@
-import "./App.css";
+import LoginPanel from "./Components/LoginPanel";
 
 function App() {
-	return <div className="App"></div>;
+	return <LoginPanel></LoginPanel>;
 }
 
 export default App;

@@ -1,0 +1,22 @@
+.loginForm {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 25px;
+}
+.players {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 40px;
+}
+.players__list {
+	display: flex;
+	justify-content: center;
+	width: 50vw;
+	flex-wrap: wrap;
+	gap: 20px;
+}
+.players__player {
+	font-size: 30px;
+}
